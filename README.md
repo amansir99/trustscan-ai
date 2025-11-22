@@ -213,7 +213,8 @@ trustscan-ai/
 ├── package.json                     # Dependencies
 ├── DOCUMENTATION.md                 # This file
 ├── README.md                        # Project README
-└── LICENSE.txt                      # MIT License
+└── LICENSE.txt                      # GNU AFFERO GENERAL PUBLIC LICENSE
+
 ```
 
 ---
