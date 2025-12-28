@@ -2,8 +2,8 @@ name: Keep Database Alive
 
 on:
   schedule:
-    # Run every 1 minute for testing
-    - cron: '* * * * *'
+    # Run once a day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
